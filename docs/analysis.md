@@ -1,6 +1,6 @@
 # Analysis: Data Professional Survey Dashboard
 
-<img width="1402" height="787" alt="Dashboard" src="screenshots/dashboard.png" />
+<img width="1402" height="787" alt="Dashboard" src="../screenshots/dashboard.png" />
 
 ## 1. Business Problem
 The survey collects responses from data professionals worldwide. The goal is to understand:
