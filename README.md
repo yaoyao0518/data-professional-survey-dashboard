@@ -2,6 +2,8 @@
 
 Interactive Power BI dashboard analyzing survey responses from 630 data professionals worldwide. The dashboard explores salary by job title, favorite programming language, difficulty breaking into data, work/life balance, and country distribution.
 
+![Dashboard](screenshots/dashboard.png)
+
 ## Tools
 - Power BI
 - Excel
